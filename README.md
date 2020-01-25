@@ -11,3 +11,16 @@ this is my shopping list:
 * milk
 * chocolatte
 * coffe
+
+```java
+public class MyCat {
+	private String name;
+	
+	pbublic MyCat(String name) {
+					this.name = name;
+	}
+	}
+					
+
+
+```
